@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">ZéGelado</title>
+  <rect width="64" height="64" rx="18" fill="#e85d04"/>
+  <path d="M20 17h27v7L31 43h17v8H18v-7l16-19H20z" fill="#fff"/>
+  <path d="M14 12l3 5m-8 2 6 2m33-9-3 5" stroke="#8ee3e8" stroke-width="4" stroke-linecap="round"/>
+</svg>

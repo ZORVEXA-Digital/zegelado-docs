@@ -1,0 +1,13 @@
+{
+  "name": "zegelado-docs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs --host=127.0.0.1",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs --host=127.0.0.1"
+  },
+  "devDependencies": {
+    "vitepress": "2.0.0-alpha.20"
+  }
+}
